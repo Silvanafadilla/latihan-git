@@ -7,6 +7,6 @@
     <title>Home</title>
 </head>
 <body>
-    Ini halaman about
+    Ini halaman abouts
 </body>
 </html>

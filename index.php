@@ -7,6 +7,6 @@
     <title>Home</title>
 </head>
 <body>
-    ini halaman Indexs
+    ini halaman Index
 </body>
 </html>

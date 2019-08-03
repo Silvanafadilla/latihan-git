@@ -9,13 +9,13 @@
 </head>
 <body>
     <?php
-        $a = 4;
-        $b = 10;
+        $a = 8;
+        $b = 6;
         $c = $a+$b;
-        $d = 5;
+        $d = 6;
         $e = $c+$d;
         
-        if ($c >= 11) {
+        if ($c >= 20) {
             echo '<h1 style = "color: red">' .$c. '</h1>';
         }elseif ($c <= 5) {
             echo '<h1 style = "color: yellow">' .$c. '</h1>';
